@@ -43,8 +43,8 @@ const Bmi = () => {
   const handleClear = () =>{
     setHeight("");
     setWeight("");
-    setBmi(null);
     setStatus("");
+    setBmi(null);
     setErrormsg("");
   }
 
