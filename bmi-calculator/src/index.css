@@ -18,8 +18,8 @@ body{
     align-items: center;
 }
 .sub-container{
-    height: 480px;
-    width: 65%;
+    height: 550px;
+    width: 60%;
     background-color: white;
     border-radius: 20px;
     display: flex;
